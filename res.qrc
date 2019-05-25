@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/green_mic.png</file>
+        <file>images/red_mic.png</file>
+    </qresource>
+</RCC>
